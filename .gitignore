@@ -15,3 +15,5 @@ temp/
 .env
 lib
 dist
+
+.qodo
